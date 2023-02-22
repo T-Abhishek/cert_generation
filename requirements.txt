@@ -1,0 +1,4 @@
+Django==4.1
+Pillow==9.4.0
+qrcode==7.4.2
+xhtml2pdf==0.2.9
